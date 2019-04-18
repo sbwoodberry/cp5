@@ -15,7 +15,7 @@
     <router-view />
   </div>
   <div class="footer">
-    <p>Github Code</p>
+    <a href="https://github.com/sbwoodberry/cp5">Github Code</a>
   </div>
 </div>
 </template>
